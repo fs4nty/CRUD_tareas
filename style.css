@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #333;
+    color: #ffff;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+input[type="text"], textarea, select {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"]{
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #333;
+    color: #ffff;
+    cursor: pointer ;
+}
+
+.desc {
+    margin-bottom: 20px;
+}
